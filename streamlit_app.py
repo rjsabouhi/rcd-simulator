@@ -55,7 +55,6 @@ if st.sidebar.button("Run Simulation"):
     st.session_state.rcd_model = model
     st.session_state.simulation_data = data
     st.session_state.selected_time = n_steps - 1
-    st.experimental_rerun()
 
 # Main display
 if st.session_state.simulation_data:
