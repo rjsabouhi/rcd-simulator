@@ -1,5 +1,10 @@
 # Recursive Cognitive Dynamics (RCD) Simulator
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rcd-simulator.streamlit.app/)
+
+Live demo: https://rcd-simulator.streamlit.app/
+
+
 The RCD Simulator models the recursive interaction between a human cognitive state (`H(t)`) and an AI generative model state (`M(t)`) over time, under the influence of a reflection feedback signal `R(t)`.
 
 ## Overview
