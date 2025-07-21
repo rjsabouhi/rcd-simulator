@@ -1,6 +1,6 @@
 # Recursive Cognitive Dynamics (RCD) Simulator
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rcd-simulator.streamlit.app/)
+[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rcd-simulator.streamlit.app/](https://rcd-theory-attractor-forge-demo.streamlit.app/))
 
 Live demo: https://rcd-simulator.streamlit.app/
 
